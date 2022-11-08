@@ -1,0 +1,6 @@
+html {background-color: darksalmon ;text-align: left;}
+h1 {color: maroon;text-align: center;}
+p {font-family: 'Times New Roman', Times, serif;font-size: medium;}
+h2 {font-family: Verdana, Geneva, Tahoma, sans-serif;}
+.highlighted {font-size: larger;color: blueviolet;}
+ul { list-style-type: circle }
